@@ -8,6 +8,3 @@ Module 1 material. These are the notebooks and other files needed for the exerci
 - D2 https://drive.google.com/file/d/12hehfcdVOR0lpemy5Y-84EspCiOjr8e9/view?usp=sharing
 - D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
 
-Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
-
-S. Haug, 2021-08-21
