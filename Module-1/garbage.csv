@@ -1,52 +1,4 @@
 Jahr;Gemeinde;Kategorie;Einheit;Wert
-2023;Liestal;Glas;kg pro Einw.;18.6
-2023;Liestal;Gruengut;kg pro Einw.;59.3
-2023;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;170.2
-2023;Liestal;Kunststoffe;kg pro Einw.;0
-2023;Liestal;Oele;kg pro Einw.;0.1
-2023;Liestal;Papier + Karton;kg pro Einw.;39.5
-2023;Liestal;Uebrige Metalle;kg pro Einw.;0.3
-2023;Liestal;Weissblech + Alu;kg pro Einw.;1.9
-2022;Liestal;Glas;kg pro Einw.;20.1
-2022;Liestal;Gruengut;kg pro Einw.;62.3
-2022;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;172.4
-2022;Liestal;Kunststoffe;kg pro Einw.;0
-2022;Liestal;Oele;kg pro Einw.;0
-2022;Liestal;Papier + Karton;kg pro Einw.;42
-2022;Liestal;Uebrige Metalle;kg pro Einw.;0.4
-2022;Liestal;Weissblech + Alu;kg pro Einw.;1.9
-2021;Liestal;Glas;kg pro Einw.;24.6
-2021;Liestal;Gruengut;kg pro Einw.;78.7
-2021;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;181.6
-2021;Liestal;Kunststoffe;kg pro Einw.;0
-2021;Liestal;Oele;kg pro Einw.;0.2
-2021;Liestal;Papier + Karton;kg pro Einw.;46.9
-2021;Liestal;Uebrige Metalle;kg pro Einw.;0
-2021;Liestal;Weissblech + Alu;kg pro Einw.;2
-2020;Liestal;Glas;kg pro Einw.;29.88521894
-2020;Liestal;Gruengut;kg pro Einw.;76.07894196
-2020;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;182.8266977
-2020;Liestal;Kunststoffe;kg pro Einw.;0
-2020;Liestal;Oele;kg pro Einw.;0
-2020;Liestal;Papier + Karton;kg pro Einw.;42.79997259
-2020;Liestal;Uebrige Metalle;kg pro Einw.;0.475570479
-2020;Liestal;Weissblech + Alu;kg pro Einw.;1.986568903
-2019;Liestal;Glas;kg pro Einw.;28.73275085
-2019;Liestal;Gruengut;kg pro Einw.;69.99514597
-2019;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;183.456071
-2019;Liestal;Kunststoffe;kg pro Einw.;0
-2019;Liestal;Oele;kg pro Einw.;0.034116913
-2019;Liestal;Papier + Karton;kg pro Einw.;44.33881146
-2019;Liestal;Uebrige Metalle;kg pro Einw.;0
-2019;Liestal;Weissblech + Alu;kg pro Einw.;1.79460509
-2018;Liestal;Glas;kg pro Einw.;29.04565764
-2018;Liestal;Gruengut;kg pro Einw.;63.62719911
-2018;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;187.3247696
-2018;Liestal;Kunststoffe;kg pro Einw.;0
-2018;Liestal;Oele;kg pro Einw.;0.023177883
-2018;Liestal;Papier + Karton;kg pro Einw.;49.90156381
-2018;Liestal;Uebrige Metalle;kg pro Einw.;0
-2018;Liestal;Weissblech + Alu;kg pro Einw.;1.947081821
 2017;Liestal;Glas;kg pro Einw.;28.67
 2017;Liestal;Gruengut;kg pro Einw.;65.583
 2017;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;18.82
@@ -55,7 +7,51 @@ Jahr;Gemeinde;Kategorie;Einheit;Wert
 2017;Liestal;Papier + Karton;kg pro Einw.;51.26
 2017;Liestal;Uebrige Metalle;kg pro Einw.;0
 2017;Liestal;Weissblech + Alu;kg pro Einw.;2.01
-2023;Liestal;Glas;Tonnen;293.8
-2023;Liestal;Gruengut;Tonnen;939
-2023;Liestal;Hauskehricht + Sperrgut;Tonnen;2692.5
-2023;Liestal;Kunststoffe;Tonnen;0
+2018;Liestal;Glas;kg pro Einw.;29.04565764
+2018;Liestal;Gruengut;kg pro Einw.;63.62719911
+2018;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;187.3247696
+2018;Liestal;Kunststoffe;kg pro Einw.;0
+2018;Liestal;Oele;kg pro Einw.;0.023177883
+2018;Liestal;Papier + Karton;kg pro Einw.;49.90156381
+2018;Liestal;Uebrige Metalle;kg pro Einw.;0
+2018;Liestal;Weissblech + Alu;kg pro Einw.;1.947081821
+2019;Liestal;Glas;kg pro Einw.;28.73275085
+2019;Liestal;Gruengut;kg pro Einw.;69.99514597
+2019;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;183.456071
+2019;Liestal;Kunststoffe;kg pro Einw.;0
+2019;Liestal;Oele;kg pro Einw.;0.034116913
+2019;Liestal;Papier + Karton;kg pro Einw.;44.33881146
+2019;Liestal;Uebrige Metalle;kg pro Einw.;0
+2019;Liestal;Weissblech + Alu;kg pro Einw.;1.79460509
+2020;Liestal;Glas;kg pro Einw.;29.88521894
+2020;Liestal;Gruengut;kg pro Einw.;76.07894196
+2020;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;182.8266977
+2020;Liestal;Kunststoffe;kg pro Einw.;0
+2020;Liestal;Oele;kg pro Einw.;0
+2020;Liestal;Papier + Karton;kg pro Einw.;42.79997259
+2020;Liestal;Uebrige Metalle;kg pro Einw.;0.475570479
+2020;Liestal;Weissblech + Alu;kg pro Einw.;1.986568903
+2021;Liestal;Glas;kg pro Einw.;24.6
+2021;Liestal;Gruengut;kg pro Einw.;78.7
+2021;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;181.6
+2021;Liestal;Kunststoffe;kg pro Einw.;0
+2021;Liestal;Oele;kg pro Einw.;0.2
+2021;Liestal;Papier + Karton;kg pro Einw.;46.9
+2021;Liestal;Uebrige Metalle;kg pro Einw.;0
+2021;Liestal;Weissblech + Alu;kg pro Einw.;2
+2022;Liestal;Glas;kg pro Einw.;20.1
+2022;Liestal;Gruengut;kg pro Einw.;62.3
+2022;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;172.4
+2022;Liestal;Kunststoffe;kg pro Einw.;0
+2022;Liestal;Oele;kg pro Einw.;0
+2022;Liestal;Papier + Karton;kg pro Einw.;42
+2022;Liestal;Uebrige Metalle;kg pro Einw.;0.4
+2022;Liestal;Weissblech + Alu;kg pro Einw.;1.9
+2023;Liestal;Glas;kg pro Einw.;18.6
+2023;Liestal;Gruengut;kg pro Einw.;59.3
+2023;Liestal;Hauskehricht + Sperrgut;kg pro Einw.;170.2
+2023;Liestal;Kunststoffe;kg pro Einw.;0
+2023;Liestal;Oele;kg pro Einw.;0.1
+2023;Liestal;Papier + Karton;kg pro Einw.;39.5
+2023;Liestal;Uebrige Metalle;kg pro Einw.;0.3
+2023;Liestal;Weissblech + Alu;kg pro Einw.;1.9
